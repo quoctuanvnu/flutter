@@ -1,7 +1,8 @@
 # bin2dec
 
 Mô tả dự án
-Dự án này là bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
+
+Bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
 
 Sử dụng Flutter làm ứng dụng chuyển đổi cơ số từ hệ nhị phân (Binary)
 
