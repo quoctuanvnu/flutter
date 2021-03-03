@@ -1,6 +1,9 @@
 # bin2dec
 
-Một app nhỏ giúp chuyển đổi dữ liệu
+Mô tả dự án
+Dự án này là bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
+
+Sử dụng Flutter làm ứng dụng chuyển đổi cơ số từ hệ nhị phân (Binary)
 
 ![image](https://user-images.githubusercontent.com/27027746/109842708-ef72d000-7c7c-11eb-805b-4054b00db86e.png)
 
