@@ -1,16 +1,14 @@
 # bin2dec
 
-A new Flutter application.
+Một app nhỏ giúp chuyển đổi dữ liệu
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/27027746/109842708-ef72d000-7c7c-11eb-805b-4054b00db86e.png)
 
-This project is a starting point for a Flutter application.
+Những việc đã làm:
++ Có khung nhập và xuất dữ liệu
++ Có giao diện cơ bản
++ Có thể chuyển từ dữ liệu nhị phân sang thập phân
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Việc cần hoàn thiện:
++ Thêm chức năng clear
++ Bổ sung thêm các bộ chuyển khác (ví dụ: Bin -> Hex...)
